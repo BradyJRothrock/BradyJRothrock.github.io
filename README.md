@@ -2,43 +2,7 @@
 
 ![Image](http://new.kubootcamp.com/wp-content/uploads/sites/69/2018/03/Brady-Rothrock-Instructor-Bio-KU-Boot-Camps-228x300.png)
 
+I joined Sprint in 2012, which has now merged with T-Mobile, and currently works as a Data Scientist within the Internal Audit Technology Team. I perform and guides data analytics projects in audit areas spanning retail, finance, operations, and enterprise risk management.
 
+Prior to joining Sprint, I obtained my Certified Public Account (CPA) license and Certified Fraud Examiner (CFE) designation before entering the field of data analysis. I serve as a local user group leader for an audit industry specific analytics tool, as well as the Technology Director for the Kansas City Association of Certified Fraud Examiners. In my spare time I spend time with my family, experiment with Machine Learning models, and research Sabermetrics (the application of statistical analysis to baseball data).
 
-
-
-
-You can use the [editor on GitHub](https://github.com/BradyJRothrock/BradyJRothrock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BradyJRothrock/BradyJRothrock.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
