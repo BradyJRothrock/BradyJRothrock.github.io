@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
+
+![Image](http://new.kubootcamp.com/wp-content/uploads/sites/69/2018/03/Brady-Rothrock-Instructor-Bio-KU-Boot-Camps-228x300.png)
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/BradyJRothrock/BradyJRothrock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
