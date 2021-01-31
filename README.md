@@ -1,6 +1,7 @@
 ## Welcome to my portfolio
 
 ![Image](assets/images/Brady.jpg)
+<img src="assets/images/Brady.jpg" width="100" height="100">
 
 I joined Sprint in 2012, which has now merged with T-Mobile, and currently works as a Data Scientist within the Internal Audit Technology Team. I perform and guides data analytics projects in audit areas spanning retail, finance, operations, and enterprise risk management.
 
