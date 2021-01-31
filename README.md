@@ -1,6 +1,6 @@
 ## Welcome to my portfolio
 
-![Image](http://new.kubootcamp.com/wp-content/uploads/sites/69/2018/03/Brady-Rothrock-Instructor-Bio-KU-Boot-Camps-228x300.png)
+![Image](assets/images/Brady.jpg)
 
 I joined Sprint in 2012, which has now merged with T-Mobile, and currently works as a Data Scientist within the Internal Audit Technology Team. I perform and guides data analytics projects in audit areas spanning retail, finance, operations, and enterprise risk management.
 
