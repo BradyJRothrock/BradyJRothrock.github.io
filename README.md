@@ -1,5 +1,3 @@
-## Welcome to my portfolio
-
 <img src="assets/images/Brady.jpg" width="200" height="280" align="left">
 
 I am an experienced Decision Scientist with a demonstrated history of working with large datasets. I'm skilled in Project Management, Data Analytics, Quantitative Analysis, Public Speaking, and Programming Languages including SQL, Python, & R. I possess a Master of Science (M.S.) Business Intelligence and Analytics from Rockhurst University and currently working towards a Master of Science (M.S.) Computer Science with a focus on Data Science and Engineering from the University of Kansas School of Electrical Engineering and Computer Science.
